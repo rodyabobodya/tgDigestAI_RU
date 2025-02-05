@@ -37,4 +37,4 @@ You can try it out on a test bot: https://t.me/aireader_test_bot
 ## Мои контакты / My contacs:
 
 [Telegram](https://t.me/rrkorobov)
-[LinkedIn](https://www.linkedin.com/in/rrkorobov)
+[LinkedIn](https://www.linkedin.com/in/rkorobov/)
